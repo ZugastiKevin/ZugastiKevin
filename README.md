@@ -1,9 +1,22 @@
 <div align="center">Hello im Kevin Zugasti</div>
 <br />
-<div align="center">Im developer junior and Freelance on <div><h1>Bearded developer</h1></div><div><img src="https://media.giphy.com/media/NKvTMKHLCmpBm/giphy.gif" width="480" height="336"></img></div></div>
+<div align="center">
+  Im developer junior and Freelance on 
+    <div>
+       <h1>
+         Bearded developer
+        </h1>
+    </div>
+    <div>
+      <img src="https://media.giphy.com/media/NKvTMKHLCmpBm/giphy.gif" width="480" height="336"></img>
+    </div>
+</div>
 <br />
-
-![](https://img.shields.io/badge/OS-Garuda-%23ff79c6)
+<div align="center">
+  
+  ![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23bd93f9?logo=react&logoColor=white)
+  
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula)
 
