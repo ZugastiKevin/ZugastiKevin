@@ -3,7 +3,7 @@
 <div align="center">Im developer junior and Freelance on <div><h1>Bearded developer</h1></div><div><img src="https://media.giphy.com/media/NKvTMKHLCmpBm/giphy.gif" width="480" height="336"></img></div></div>
 <br />
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/OS-Garuda-%23ff79c6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula)
 
