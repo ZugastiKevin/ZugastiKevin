@@ -1,5 +1,5 @@
 <br />
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqj9EVd29Ipg/profile-displaybackgroundimage-shrink_200_800/0/1625662308699?e=1640822400&v=beta&t=wKCXEV7rHHjR3CaAk-H7jqQDHwtmFjO2TdGEFt1nC0s" alt="Me in conf" width="100%" height="300">
+<img src="https://i.goopics.net/8lodjg.jpg" alt="Me in conf" width="100%" height="100%">
 <br />
 <div align="center">Hello im Kevin Zugasti</div>
 <br />
@@ -8,7 +8,7 @@
     <div>
        <h1>
          Bearded developer
-        </h1>
+       </h1>
     </div>
     <div>
       <img src="https://media.giphy.com/media/NKvTMKHLCmpBm/giphy.gif" width="480" height="336"></img>
