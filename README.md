@@ -1,3 +1,6 @@
+<br />
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqj9EVd29Ipg/profile-displaybackgroundimage-shrink_200_800/0/1625662308699?e=1640822400&v=beta&t=wKCXEV7rHHjR3CaAk-H7jqQDHwtmFjO2TdGEFt1nC0s" alt="Me in conf" width="100%" height="300">
+<br />
 <div align="center">Hello im Kevin Zugasti</div>
 <br />
 <div align="center">
@@ -10,6 +13,8 @@
     <div>
       <img src="https://media.giphy.com/media/NKvTMKHLCmpBm/giphy.gif" width="480" height="336"></img>
     </div>
+    <br />
+  Im French and have a lot of ideas to write. .. ... annnnddd is done!! hahah lot of fun im a funny guys :)
 </div>
 <br />
 <h2 align="center">Technologies & Tools</h2>
@@ -32,7 +37,5 @@
   <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZugastiKevin&theme=dracula" />
   <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula" />
 </div>
-<br />
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqj9EVd29Ipg/profile-displaybackgroundimage-shrink_200_800/0/1625662308699?e=1640822400&v=beta&t=wKCXEV7rHHjR3CaAk-H7jqQDHwtmFjO2TdGEFt1nC0s" alt="Me in conf" width="100%" height="300">
 <br />
 <img src="https://visitor-badge.glitch.me/badge?page_id=ZugastiKevin" alt="visitor badge"/>
