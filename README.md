@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   
-![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-%23bd93f9?logo=visualstudio&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23ff79c6?logo=react&logoColor=white) ![](https://img.shields.io/badge/CODE-Node-%23bd93f9?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/DB-MongoDB-%23ff79c6?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-%23bd93f9?logo=visualstudio&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23ff79c6?logo=react&logoColor=white) ![](https://img.shields.io/badge/CODE-JavaScript-%23bd93f9?logo=javascript&logoColor=white)  ![](https://img.shields.io/badge/CODE-Node-%23ff79c6?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/DB-MongoDB-%23bd93f9?logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/TOOLS-Npm-%23ff79c6?logo=netapp&logoColor=white) ![](https://img.shields.io/badge/DEPLOY-Heroku-%23bd93f9?logo=heroku&logoColor=white)
   
 </div>
 
