@@ -17,7 +17,7 @@
   Im French and have a lot of ideas to write. .. ... annnnddd is done!! hahah lot of fun im a funny guys :)
   
   If you need to contact me
-  <a href="mailto: contact@bearded-developer.dev"><img src="https://img.shields.io/badge/-%236272a4?logo=invoiceninja&logoColor=white" /></a>
+  <a href="mailto: contact@bearded-developer.dev"><img src="https://img.shields.io/badge/-%236272a4?logo=thunderbird&logoColor=white" /></a>
   you can find me on
   <a href="https://www.linkedin.com/in/kevin-zugasti/"><img src="https://img.shields.io/badge/-%236272a4?logo=linkedin&logoColor=white" /></a>
 </div>
@@ -25,7 +25,7 @@
 <h2 align="center">Technologies & Tools</h2>
 <div align="center">
   
-  ![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-%23bd93f9?logo=visualstudio&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23ff79c6?logo=react&logoColor=white) ![](https://img.shields.io/badge/CODE-JavaScript-%23bd93f9?logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-%23bd93f9?logo=visualstudiocode&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23ff79c6?logo=react&logoColor=white) ![](https://img.shields.io/badge/CODE-JavaScript-%23bd93f9?logo=javascript&logoColor=white)
   
 </div>
 <div align="center">
