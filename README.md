@@ -17,9 +17,11 @@
 ![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-%23bd93f9?logo=visualstudio&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23ff79c6?logo=react&logoColor=white) ![](https://img.shields.io/badge/CODE-JavaScript-%23bd93f9?logo=javascript&logoColor=white)  ![](https://img.shields.io/badge/CODE-Node-%23ff79c6?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/DB-MongoDB-%23bd93f9?logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/TOOLS-Npm-%23ff79c6?logo=netapp&logoColor=white) ![](https://img.shields.io/badge/DEPLOY-Heroku-%23bd93f9?logo=heroku&logoColor=white)
   
 </div>
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZugastiKevin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula)
 
+ </div>
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqj9EVd29Ipg/profile-displaybackgroundimage-shrink_200_800/0/1625662308699?e=1640822400&v=beta&t=wKCXEV7rHHjR3CaAk-H7jqQDHwtmFjO2TdGEFt1nC0s" alt="Me in conf" width="100%" height="300">
 <br />
