@@ -39,8 +39,8 @@
 ***
 
 <div align="center">
-  <img align="center" width="249" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZugastiKevin&theme=dracula" />
-  <img align="center" width="600" height="250" src="https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula" />
+  <img align="center" width="207" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZugastiKevin&theme=dracula" />
+  <img align="center" width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula" />
 </div>
 <br />
 <img src="https://visitor-badge.glitch.me/badge?page_id=ZugastiKevin" alt="visitor badge"/>
