@@ -1,5 +1,5 @@
 <br />
-<img src="https://i.goopics.net/8lodjg.jpg" alt="Me in conf" width="100%" height="100%">
+<img src="https://i.goopics.net/8i7xix.png" alt="Me in conf" width="100%" height="100%">
 <br />
 <div align="center">Hello im Kevin Zugasti</div>
 <br />
