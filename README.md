@@ -43,4 +43,6 @@
   <img align="center" width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula" />
 </div>
 <br />
-<img src="https://visitor-badge.glitch.me/badge?page_id=ZugastiKevin" alt="visitor badge"/>
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ZugastiKevin&right_color=orchid" alt="visitor badge"/>
+</div>
