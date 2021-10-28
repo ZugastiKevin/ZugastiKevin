@@ -29,11 +29,10 @@
 ***
 
 <div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZugastiKevin&layout=default&theme=dracula&height="100")](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula)
-
- </div>
-
+  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZugastiKevin&theme=dracula" />
+  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=ZugastiKevin&show_icons=true&theme=dracula" />
+</div>
+<br />
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGqj9EVd29Ipg/profile-displaybackgroundimage-shrink_200_800/0/1625662308699?e=1640822400&v=beta&t=wKCXEV7rHHjR3CaAk-H7jqQDHwtmFjO2TdGEFt1nC0s" alt="Me in conf" width="100%" height="300">
 <br />
 <img src="https://visitor-badge.glitch.me/badge?page_id=ZugastiKevin" alt="visitor badge"/>
