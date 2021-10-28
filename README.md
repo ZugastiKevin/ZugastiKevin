@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   
-  ![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23bd93f9?logo=react&logoColor=white) ![](https://img.shields.io/badge/CODE-Node-%23ff79c6?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/DB-MongoDB-%23bd93f9?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/OS-Garuda-%23ff79c6?logo=archlinux&logoColor=white)  ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-%23bd93f9?logo=visualstudio&logoColor=white)  ![](https://img.shields.io/badge/CODE-React-%23ff79c6?logo=react&logoColor=white) ![](https://img.shields.io/badge/CODE-Node-%23bd93f9?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/DB-MongoDB-%23ff79c6?logo=mongodb&logoColor=white)
   
 </div>
 
