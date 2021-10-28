@@ -17,7 +17,7 @@
   Im French and have a lot of ideas to write. .. ... annnnddd is done!! hahah lot of fun im a funny guys :)
   
   If you need to contact me
-  <a href="contact@bearded-developer.dev"><img src="https://img.shields.io/badge/-%236272a4?logo=invoiceninja&logoColor=white" /></a>
+  <a href="mailto: contact@bearded-developer.dev"><img src="https://img.shields.io/badge/-%236272a4?logo=invoiceninja&logoColor=white" /></a>
   you can find me on
   <a href="https://www.linkedin.com/in/kevin-zugasti/"><img src="https://img.shields.io/badge/-%236272a4?logo=linkedin&logoColor=white" /></a>
 </div>
