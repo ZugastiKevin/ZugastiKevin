@@ -30,7 +30,7 @@
 </div>
 <div align="center">
   
-  ![](https://img.shields.io/badge/CODE-Node-%23bd93f9?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/DB-MongoDB-%23ff79c6?logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/TOOLS-Npm-%23bd93f9?logo=netapp&logoColor=white) ![](https://img.shields.io/badge/DEPLOY-Heroku-%23ff79c6?logo=heroku&logoColor=white) ![](https://img.shields.io/badge/DEPLOY-Vercel-%23ff79c6?logo=vercel&logoColor=white)
+  ![](https://img.shields.io/badge/CODE-Node-%23bd93f9?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/DB-MongoDB-%23ff79c6?logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/TOOLS-Npm-%23bd93f9?logo=netapp&logoColor=white) ![](https://img.shields.io/badge/DEPLOY-Heroku-%23ff79c6?logo=heroku&logoColor=white) ![](https://img.shields.io/badge/DEPLOY-Vercel-%23bd93f9?logo=vercel&logoColor=white)
   
 </div>
 <br />
