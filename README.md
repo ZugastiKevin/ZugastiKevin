@@ -31,52 +31,49 @@
 |       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /><br>Python       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" /><br>Rails |
 
 🎨 Frontend
-	
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-HTML5	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-CSS3
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-React	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
-Vue.js
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
-SASS	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-TailwindCSS
+|                                                                                                                                                 |                                                                                                                                                  |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><br>HTML5 |   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><br>CSS3   |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /><br>React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" /><br>Vue.js |
+|       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" /><br>SASS       |              <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /><br>TailwindCSS              |
+
 🛠 Backend
-	
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-Node.js	
+|                                                                                                                                                     |     |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /><br>Node.js |     |
+
 📱 Mobile Development
-	
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" />
-React Native	
+|                                                                                                  |     |
+| :----------------------------------------------------------------------------------------------: | :-: |
+| <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" /><br>React Native |     |
+
 🗃 Databases
-	
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" />
-Django	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-MySQL
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
-PostgreSQL	
+|                                                                                                                                                                |                                                                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" /><br>Django                                | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /><br>MySQL |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" /><br>PostgreSQL |                                                                                                                                                 |
+
 ⚙️ DevOps
-	
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-Docker	
+|                                                                                                                                                    |     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" /><br>Docker |     |
+
 🔧 Frameworks
-	
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" />
-Django	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" />
-Rails
-<img src="https://symfony.com/logos/symfony_black_03.svg" width="40" height="40" />
-Symfony	
+|                                                                                                 |                                                                                                                                                 |
+| :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" /><br>Django | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" /><br>Rails |
+|  <img src="https://symfony.com/logos/symfony_black_03.svg" width="40" height="40" /><br>Symfony |                                                                                                                                                 |
+
 🛠 Software & Tools
-	
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
-Postman	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
-Figma
+|                                                                                                                  |                                                                                                      |
+| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" /><br>Postman | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /><br>Figma |
+
 📦 Others
-	
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-Git	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
-Linux
+|                                                                                                        |                                                                                                                                        |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /><br>Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" /><br>Linux |
+
 ---
 
 ### 📊 GitHub Stats:
