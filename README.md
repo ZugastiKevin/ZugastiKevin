@@ -24,50 +24,72 @@
 ---
 
 ### 💻 Languages and Tools:
-<dl>
-<dt>🧠 Programming Languages</dt>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/></dd
+<h4>🧠 Programming Languages</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60" style="margin: 10px;" />
 
-<dt>🎨 Frontend</dt>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/></dd>
-<dd><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></dd>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="60" height="60" style="margin: 10px;" />
+</div>
 
-<dt>🛠 Backend</dt>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></dd>
+<h4>🎨 Frontend</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60" style="margin: 10px;" />
 
-<dt>📱 Mobile Development</dt>
-<dd><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></dd>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="60" height="60" style="margin: 10px;" />
 
-<dt>🗃 Databases</dt>
-<dd><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></dd>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="60" height="60" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60" style="margin: 10px;" />
+</div>
 
-<dt>⚙️ DevOps</dt>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></dd>
+<h4>🛠 Backend</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="60" height="60" style="margin: 10px;" />
+</div>
 
+<h4>📱 Mobile Development</h4>
+<div align="center">
+  <img src="https://reactnative.dev/img/header_logo.svg" title="React Native" alt="React Native" width="60" height="60" style="margin: 10px;" />
+</div>
 
-<dt>🔧 Frameworks</dt>
-<dd><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/></dd>
-<dd><img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/></dd>
+<h4>🗃 Databases</h4>
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 10px;" />
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60" style="margin: 10px;" />
+</div>
 
-<dt>🛠 Software & Tools</dt>
-<dd><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></dd>
-<dd><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></dd>
+<h4>⚙️ DevOps</h4>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60" style="margin: 10px;" />
+</div>
 
-<dt>📦 Others</dt>
-<dd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></dd>
-<dd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></dd>
-</dl>
+<h4>🔧 Frameworks</h4>
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="60" height="60" style="margin: 10px;" />
+
+  <img src="https://symfony.com/logos/symfony_black_03.svg" title="Symfony" alt="Symfony" width="60" height="60" style="margin: 10px;" />
+</div>
+
+<h4>🛠 Software & Tools</h4>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="60" height="60" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="60" height="60" style="margin: 10px;" />
+</div>
+
+<h4>📦 Others</h4>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="60" height="60" style="margin: 10px;" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60" style="margin: 10px;" />
+</div>
 ---
 
 ### 📊 GitHub Stats:
